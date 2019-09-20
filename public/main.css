@@ -1,70 +1,70 @@
 * {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 .container {
-	width: 100%;
-	height: 100%;
-	max-width: 128rem;
-	max-height: 32rem;
-	padding: 4rem;
+  width: 100%;
+  height: 100%;
+  max-width: 128rem;
+  max-height: 32rem;
+  padding: 4rem;
 }
 
 .center-on-page {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .center {
-	text-align: center;
+  text-align: center;
 }
 
 body {
-	background-color: darkblue;
-	transition: background-color 1s;
+  background-color: darkblue;
+  transition: background-color 1s;
 }
 
 @font-face {
-	font-family: GTAmerica;
-	src: url(gt-america-bold.woff);
-	font-weight: 700;
+  font-family: GTAmerica;
+  src: url(gt-america-bold.woff);
+  font-weight: 700;
 }
 @font-face {
-	font-family: GTAmerica;
-	src: url(gt-america-regular.woff);
-	font-weight: 400;
+  font-family: GTAmerica;
+  src: url(gt-america-regular.woff);
+  font-weight: 400;
 }
 
 .number {
-	color: white;
-	font-size: 24vmin;
-	font-family: GTAmerica;
-	font-weight: 700;
+  color: white;
+  font-size: 24vmin;
+  font-family: GTAmerica;
+  font-weight: 700;
 }
 
 .sub-text {
-	color: white;
-	font-size: 8vmin;
-	font-family: GTAmerica;
-	font-weight: 400;
+  color: white;
+  font-size: 8vmin;
+  font-family: GTAmerica;
+  font-weight: 400;
 }
 
 .message {
-	color: white;
-	font-size: 2.5vmin;
-	font-family: GTAmerica;
+  color: white;
+  font-size: 2.5vmin;
+  font-family: GTAmerica;
 }
 
 .flex-stack {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 .messages {
-	margin: 1rem;
-	position: absolute;
+  margin: 1rem;
+  position: absolute;
 }
