@@ -25,9 +25,9 @@ app.get('/', function(request, response) {
 
 app.post('/twcolor', (req, res) => {
   io.emit('message', {from: req.body.From, body: req.body.Body})
+  res.writeHead(200, {'Content-Type': 'text/xml'});
+  res.end('<Response></Response>');
 })
-
-
 
 // listen for requests :)
 const listener = http.listen(process.env.PORT, function() {
