@@ -1,0 +1,27 @@
+{
+  "name": "club-fair-attention-monopoly",
+  "version": "1.0.0",
+  "description": "I built this app to advertise my [Hack Club](https://hackclub.com) at our schools' club fair, where all the incoming freshman come to sign up for clubs. My goal was simple: attract as much attention as humanly possible. That is what I did.",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "http": "latest",
+    "socket.io": "latest"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmb/club-fair-attention-monopoly.git"
+  },
+  "author": "Theo Bleier <github@tmb.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmb/club-fair-attention-monopoly/issues"
+  },
+  "homepage": "https://github.com/tmb/club-fair-attention-monopoly#readme"
+}
+
