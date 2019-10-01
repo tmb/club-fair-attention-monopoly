@@ -13,6 +13,6 @@ If you'd like to use this yourself, here are the steps:
 - Open the site
 - PROFIT!
 
-![Image of students at our booth at the club fair](club-fair-1-test.png)
+![Image of students at our booth at the club fair](club-fair-1.png)
 
-![Another image of students at our booth at the club fair](club-fair-2-test.png)
+![Another image of students at our booth at the club fair](club-fair-2.png)
