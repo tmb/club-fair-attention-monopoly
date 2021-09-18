@@ -1,0 +1,26 @@
+{
+  "name": "club-fair-attention-monopoly",
+  "version": "1.0.0",
+  "description": "I built this app (inspired by [@lachlanjc](https://github.com/lachlanjc)'s own [schacks-demo](https://glitch.com/edit/#!/schacks-demo)) to advertise my [Hack Club](https://hackclub.com) at our schools' club fair, where all the incoming freshman come to sign up for clubs. My goal was simple: attract as much attention as humanly possible. That is what I did.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmb/club-fair-attention-monopoly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmb/club-fair-attention-monopoly/issues"
+  },
+  "homepage": "https://github.com/tmb/club-fair-attention-monopoly#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
