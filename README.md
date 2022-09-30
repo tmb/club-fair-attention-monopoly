@@ -12,6 +12,7 @@ If you'd like to use this yourself, here are the steps:
 - Add enviormental secret called key with YouTube Data API key
 - Setup a webhook with Twilio to /twcolor
 - Open the site
+- Click the small white box on the left before you start accepting requests
 - PROFIT!
 
 ![Image of students at our booth at the club fair](club-fair-1.png)
