@@ -23,6 +23,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "browserify": "^17.0.0",
     "express": "^4.17.1",
     "node-fetch": "^2.6.7",
@@ -35,6 +36,9 @@
 =======
     "express": "^4.17.1",
 >>>>>>> origin/master
+=======
+    "express": "^4.17.1",
+>>>>>>> aeac41f6bfd5c5a49cd38c407b3aeb142a575e03
     "socket.io": "^2.0.3"
   }
 }
