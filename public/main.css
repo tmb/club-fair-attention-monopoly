@@ -40,7 +40,7 @@ body {
 
 .number {
 	color: white;
-	font-size: 24vmin;
+	font-size: 18vmin;
 	font-family: GTAmerica;
 	font-weight: 700;
 }
@@ -68,3 +68,9 @@ body {
 	margin: 1rem;
 	position: absolute;
 }
+
+/*
+iframe {
+  display: none;
+}
+*/
